@@ -30,7 +30,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hsl_dashboard.git
+   git clone https://github.com/anuradha-mugilan/hsl_dashboard.git
    cd hsl_dashboard
    ```
 
